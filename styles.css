@@ -1,0 +1,36 @@
+/* CSS for the header */
+div.header {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+}
+
+h2 span {
+    color: #ffc200;
+}
+
+h3 a {
+    text-decoration: underline;
+}
+
+/* CSS for the content */
+div.content {
+    font-family: Merriweather, Georgia, serif;
+}
+
+/* CSS for the footer */
+div.footer {
+    font-family: Georgia, serif;
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+}
+
+hr {
+    font-family: Georgia, serif; 
+    color: #666; 
+    font-size: 14px; 
+    font-style: italic
+}
